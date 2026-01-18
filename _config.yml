@@ -22,7 +22,7 @@ author: Zaakr Thomas
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll/: "https://beautifuljekyll.com"
+    - Beautiful Jekyll/: "https://zaakrt.github.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
@@ -50,20 +50,20 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "zaakr.thomas@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
-  github: daattali
+  github: zaakrt-dev
   twitter: daattali
   patreon: DeanAttali
   youtube: "@daattali"
   whatsapp: 15551212
-#  medium: yourname
+#  medium: Zaakr Thomas
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
+#  snapchat: slim.shaded
 #  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
